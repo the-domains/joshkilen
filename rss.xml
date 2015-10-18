@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Josh Kilen's Collection of Curious Content]]></title>
         <description><![CDATA[Josh Kilen's Collection of Curious Content]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joshkilen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 17:06:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 17:08:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joshkilen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[getify/You-Dont-Know-JS]]></title>
+            <description><![CDATA[<article><h1>getify/You-Dont-Know-JS</h1><p>You-Dont-Know-JS - A book series on JavaScript. @YDKJS on twitter.</p><img src="https://avatars2.githubusercontent.com/u/150330?v=3&s=400"></article>]]></description>
+            <link>https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch2.md</link>
+            <guid isPermaLink="false">d45db420-75f6-4dab-b590-febf82046a96</guid>
+            <pubDate>Sun, 18 Oct 2015 17:08:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Great First Post]]></title>
             <description><![CDATA[<article><h1>The Great First Post</h1><p>If you have seen my books in the past, you ain't seen nothing yet. Recently I revamped my covers to reflect the quality of the content inside and I must say, they look fabulous. If you just heard Billy Crystal in your head, that's okay.</p></article>]]></description>
-            <link>undefinedthe-great-first-post/index.html</link>
+            <link>https://thegrid.ai/joshkilen/the-great-first-post/index.html</link>
             <guid isPermaLink="false">143e8b03-0c75-4033-8e2e-57af67f50a4c</guid>
             <pubDate>Sun, 18 Oct 2015 17:05:58 GMT</pubDate>
         </item>
